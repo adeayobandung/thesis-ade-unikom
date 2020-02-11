@@ -10,39 +10,40 @@
 \contentsline {chapter}{Daftar Tabel}{xiii}{section*.14}%
 \contentsline {chapter}{\numberline {1}\uppercase {Pendahuluan}}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Latar Belakang}{1}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Rumusan Masalahan}{1}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Definisi Permasalahan}{2}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}Batasan Permasalahan}{2}{subsection.1.2.2}%
-\contentsline {section}{\numberline {1.3}Tujuan}{2}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Posisi Penelitian}{2}{section.1.4}%
-\contentsline {section}{\numberline {1.5}Metodologi Penelitian}{2}{section.1.5}%
-\contentsline {section}{\numberline {1.6}Sistematika Penulisan}{2}{section.1.6}%
-\contentsline {chapter}{\numberline {2}\uppercase {Sekilas Mengenai \LaTeX }}{4}{chapter.2}%
-\contentsline {section}{\numberline {2.1}\LaTeX \nobreakspace {}Secara Singkat}{4}{section.2.1}%
-\contentsline {section}{\numberline {2.2}\LaTeX \nobreakspace {}Kompiler dan IDE}{5}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Bold, Italic, dan Underline}{5}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Memasukan Gambar}{6}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Membuat Tabel}{6}{section.2.5}%
-\contentsline {chapter}{\numberline {3}\uppercase {Notasi Matematik}}{8}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Satu Persamaan}{8}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Lebih dari Satu Persamaan}{8}{section.3.2}%
-\contentsline {chapter}{\numberline {4}\uppercase {Struktur Berkas}}{10}{chapter.4}%
-\contentsline {section}{\numberline {4.1}thesis.tex}{10}{section.4.1}%
-\contentsline {section}{\numberline {4.2}laporan\_setting.tex}{10}{section.4.2}%
-\contentsline {section}{\numberline {4.3}istilah.tex}{10}{section.4.3}%
-\contentsline {section}{\numberline {4.4}hype.indonesia.tex}{10}{section.4.4}%
-\contentsline {section}{\numberline {4.5}pustaka.tex}{11}{section.4.5}%
-\contentsline {section}{\numberline {4.6}bab[1 - 6].tex}{11}{section.4.6}%
-\contentsline {chapter}{\numberline {5}\uppercase {Perintah dalam uithesis.sty}}{12}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Mengubah Tampilan Teks}{12}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Memberikan Catatan}{12}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Menambah Isi Daftar Isi}{13}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Memasukan PDF}{13}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Membuat Perintah Baru}{17}{section.5.5}%
-\contentsline {chapter}{\numberline {6}\uppercase {??}}{18}{chapter.6}%
-\contentsline {chapter}{\numberline {7}\uppercase {Kesimpulan dan Saran}}{19}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Kesimpulan}{19}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Saran}{19}{section.7.2}%
-\contentsline {chapter}{Daftar Referensi}{20}{section*.20}%
-\contentsline {chapter}{LAMPIRAN}{1}{section*.21}%
-\contentsline {chapter}{Lampiran 1}{2}{section*.22}%
+\contentsline {section}{\numberline {1.2}Rumusan Masalah}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Batasan Masalah}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Tujuan Penelitian}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Manfaat Penelitian}{3}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Lokasi dan Waktu Penelitian}{4}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Lokasi Penelitian}{4}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Waktu Penelitian}{4}{subsection.1.6.2}%
+\contentsline {section}{\numberline {1.7}Sistematika Penulisan}{5}{section.1.7}%
+\contentsline {chapter}{\numberline {2}\uppercase {Landasan Teori}}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}\textit {Supply Chain Management }(\textit {SCM }) atau Manajemen Rantai Pasok}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Konsep \textit {Supply Chain Management }}{7}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Metode \textit {Lot Sizing}}{9}{section.2.3}%
+\contentsline {section}{\numberline {2.4}\textit {ROP (Reorder Point)}}{11}{section.2.4}%
+\contentsline {section}{\numberline {2.5}\textit {Safety Stock}}{11}{section.2.5}%
+\contentsline {chapter}{\numberline {3}\uppercase {Metodelogi Penelitian}}{13}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Metodelogi Peneltian}{13}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Pengumpulan Data}{13}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Analisa Data}{14}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Implementasi Model}{14}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Analisa Hasil}{14}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Kesimpulan dan Saran}{14}{section.3.6}%
+\contentsline {chapter}{\numberline {4}\uppercase {Analisis dan Pembahasan}}{15}{chapter.4}%
+\contentsline {section}{\numberline {4.1}thesis.tex}{15}{section.4.1}%
+\contentsline {section}{\numberline {4.2}laporan\_setting.tex}{15}{section.4.2}%
+\contentsline {section}{\numberline {4.3}istilah.tex}{15}{section.4.3}%
+\contentsline {section}{\numberline {4.4}hype.indonesia.tex}{15}{section.4.4}%
+\contentsline {section}{\numberline {4.5}pustaka.tex}{16}{section.4.5}%
+\contentsline {section}{\numberline {4.6}bab[1 - 6].tex}{16}{section.4.6}%
+\contentsline {chapter}{\numberline {5}\uppercase {Penutup}}{17}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Mengubah Tampilan Teks}{17}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Memberikan Catatan}{17}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Menambah Isi Daftar Isi}{18}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Memasukan PDF}{18}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Membuat Perintah Baru}{22}{section.5.5}%
+\contentsline {chapter}{Daftar Referensi}{23}{section*.18}%
+\contentsline {chapter}{LAMPIRAN}{1}{section*.19}%
+\contentsline {chapter}{Lampiran 1}{2}{section*.20}%

@@ -22,7 +22,44 @@
 \BIBdecl
 
 \bibitem{Manajemen}
-R.~E. Indrajit and R.~Djokopranoto, ``{Konsep Manajemen SUPPLY CHAIN},'' p.
-  247, 2002.
+R.~{Indrajit Eko} and R.~Djokopranoto, ``{Konsep Manajemen Supply Chain},''
+  2005, pp. 1--247.
+
+\bibitem{Ibrahim}
+\BIBentryALTinterwordspacing
+A.~Ibrahim and D.~D. Ismawan, ``{Penerapan Supply Chain Management Sistem
+  Informasi Persediaan Obat Berbasis Web},'' \emph{Kntia}, vol.~4, no.~0, pp.
+  311--315, jan 2016. [Online]. Available:
+  \url{http://www.seminar.ilkom.unsri.ac.id/index.php/kntia/article/view/1233
+  seminar.ilkom.unsri.ac.id/index.php/kntia/article/download/1233/721}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Hilman2013}
+M.~H. Hilman, F.~Setiadi, I.~Sarika, J.~Budiasto, and R.~Alfian, ``{SUPPLY
+  CHAIN MANAGEMENT BERBASIS LAYANAN: DESAIN DAN IMPLEMENTASI PROTOTIPE
+  SISTEM},'' \emph{Jurnal Sistem Informasi}, vol.~8, no.~2, p.~90, oct 2013.
+
+\bibitem{Vistasusiyanti2017}
+V.~Vistasusiyanti, P.~Kindangen, and I.~Palandeng, ``{Analisis Manajemen Rantai
+  Pasokan Spring Bed Pada Pt. Massindo Sinar Pratama Kota Manado},''
+  \emph{Jurnal Riset Ekonomi, Manajemen, Bisnis dan Akuntansi}, vol.~5, no.~2,
+  pp. 901--908, 2017.
+
+\bibitem{Hayati2015a}
+\BIBentryALTinterwordspacing
+E.~N. Hayati and M.~W. Fitriyah, ``{Penerapan E-Supply Chain Management Pada
+  Industri (Studi Kasus Pada PT Maitland-Smith Indonesia)},'' \emph{Jurnal
+  Ilmiah Dinamika Teknik}, vol.~9, no.~2, pp. 19--33, 2015. [Online].
+  Available:
+  \url{https://www.unisbank.ac.id/ojs/index.php/ft1/article/view/4749}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Almahdy}
+I.~Almahdy, ``{LOT SIZING MATERIAL REQUIREMENT PLANNING PADA PRODUK TIPE WALL
+  MOUNTING DI INDUSTRI BOX PANEL},'' Tech. Rep.~3.
+
+\bibitem{Fuad}
+A.~Fuad, ``{ANALISIS MODEL PENGADAAN BAHAN MAKANAN KERING BERDASARKAN METODE
+  EOQ PADA INSTALASI GIZI RUMAH SAKIT ROEMANI SEMARANG},'' 2006.
 
 \end{thebibliography}

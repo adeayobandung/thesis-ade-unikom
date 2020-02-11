@@ -13,8 +13,6 @@ A level-1 auxiliary file: bab2.aux
 A level-1 auxiliary file: bab3.aux
 A level-1 auxiliary file: bab4.aux
 A level-1 auxiliary file: bab5.aux
-A level-1 auxiliary file: bab6.aux
-A level-1 auxiliary file: kesimpulan.aux
 A level-1 auxiliary file: pustaka.aux
 The style file: IEEEtran.bst
 A level-1 auxiliary file: markLampiran.aux
@@ -24,7 +22,10 @@ Warning--I didn't find a database entry for "latex.intro"
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
-Warning--empty journal in Manajemen
+Warning--empty booktitle in Manajemen
+Warning--missing institution in Almahdy
+Warning--empty year in Almahdy
+Warning--empty journal in Fuad
 
 Done.
-(There were 2 warnings)
+(There were 5 warnings)

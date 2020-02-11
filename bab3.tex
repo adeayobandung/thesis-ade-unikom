@@ -1,71 +1,46 @@
 %-----------------------------------------------------------------------------%
 \chapter{\babTiga}
 %-----------------------------------------------------------------------------%
-\todo{tambahkan kata-kata pengantar bab 1 disini}
+%\todo{tambahkan kata-kata pengantar bab 1 disini}
 
 
 %-----------------------------------------------------------------------------%
-\section{Satu Persamaan}
+\section{Metodelogi Peneltian}
 %-----------------------------------------------------------------------------%
 
-\noindent \begin{align}\label{eq:garis}
-	\cfrac{y - y_{1}}{y_{2} - y_{1}} = 
-	\cfrac{x - x_{1}}{x_{2} - x_{1}}
-\end{align}
+Pada penelitian kali ini dilakukan langkah-langkah secara terencana dan sistematis, hal ini berguna agar dapat mempermudah proses dalam pengerjaan penelitian. Metode yang digunakan dalam penelitian ini menggunakan metode tindakan karena dari tujuan peneltian ini agar memperoleh model \scm yang paling efektif dan efisien dalam mengelola bisnis dalam perusahaan atau organisasi. Adapun tahapan penelitian adalah terlihat \pic~\ref{fig:alurPenelitian} pada sebagai berikut :
+\begin{figure}
+	\centering
+	\includegraphics[width=0.40\textwidth]
+		{pics/alur-penelitian.jpg}
+	\caption{Metodelogi Penelitian}
+	\label{fig:alurPenelitian}
+\end{figure}
 
-\equ~\ref{eq:garis} diatas adalah persamaan garis. 
-\equ~\ref{eq:garis} dan \ref{eq:bola} sama-sama dibuat dengan perintah \bslash
-align. 
-Perintah ini juga dapat digunakan untuk menulis lebih dari satu persamaan. 
-
-\noindent \begin{align}\label{eq:bola}
-	\underbrace{|\overline{ab}|}_{\text{pada bola $|\overline{ab}| = r$}} 
-		= \sqrt[2]{(x_{b} - x_{a})^{2} + (y_{b} - y_{a})^{2} + 
-				\vert\vert(z_{b} - z_{a})^{2}}
-\end{align}
 
 %-----------------------------------------------------------------------------%
-\section{Lebih dari Satu Persamaan}
-\label{sec:multiEqu}
+\section{Pengumpulan Data}
 %-----------------------------------------------------------------------------%
-\noindent \begin{align}\label{eq:matriks}	
-	|\overline{a} * \overline{b}| &= |\overline{a}| |\overline{b}| \sin\theta 
-		\\[0.2cm]
-	\overline{a} * \overline{b} &=  
-		\begin{array}{| c c c |}
-			\hat{i} & x_{1} & x_{2} \\
-			\hat{j} & y_{1} & y_{2} \\
-			\hat{k} & z_{1} & z_{2} \\
-		\end{array} \nonumber \\[0.2cm]
-	&= \hat{i} \,
-		\begin{array}{ | c c | }
-			y_{1} & y_{2} \\
-			z_{1} & z_{2} \\
-		\end{array} 
-	   + \hat{j} \,
-		\begin{array}{ | c c | }
-			z_{1} & z_{2} \\
-			x_{1} & x_{2} \\
-		\end{array} 
-	   + \hat{k} \,	
-		\begin{array}{ | c c | }
-			x_{1} & x_{2} \\
-			y_{1} & y_{2} \\
-		\end{array}
-		\nonumber
-\end{align}
+Pada Pada tahap pengumpulan data, penelitian ini menggunakan data primer pada sistem informasi penjualan Toko Chaca Komputer. Data yang digunakan pada penelitian ini adalah berupa data transaksi penjualan, data produk, data kategori produk dan data pelanggan. Data-data tersebut digunakan sebagai variabel-variabel yang signifikan maupun variabel pembantu yang saling berpengaruh untuk pemodelan sistem yang akan disimulasikan. Data yang terkumpul untuk selanjutnya dianalisis dan akan digunakan sebagai bahan dalam tahapan selanjutnya yaitu analisa data.
 
-Pada \equ~\ref{eq:matriks} dapat dilihat beberapa baris menjadi satu bagian 
-dari \equ~\ref{eq:matriks}. 
-Sedangkan dibawah ini dapat dilihat bahwa dengan cara yang sama, \equ~
-\ref{eq:gabungan1}, \ref{eq:gabungan2}, dan \ref{eq:gabungan3} memiliki nomor 
-persamaannya masing-masing. 
+%-----------------------------------------------------------------------------%
+\section{Analisa Data}
+%-----------------------------------------------------------------------------%
 
-\noindent \begin{align}\label{eq:gabungan1}	
-	\int_{a}^{b} f(x)\, dx + \int_{b}^{c} f(x) \, dx = \int_{a}^{c} f(x) \, dx
-		\\\label{eq:gabungan2}
-	\lim_{x \to \infty} \frac{f(x)}{g(x)} = 0 \hspace{1cm} 
-		\text{jika pangkat $f(x)$ $<$ pangkat $g(x)$} \\\label{eq:gabungan3}
-	a^{m^{a \, ^{n}\log b }} = b^{\frac{m}{n}}
-\end{align}
+Pada tahap analisa data, penelitian ini menggunakan data yang telah di kumpulkan untuk di analisa ulang yang akan disesuaikan dengan kebutuhan untuk kepada tahap selanjutnya.
 
+%-----------------------------------------------------------------------------%
+\section{Implementasi Model}
+%-----------------------------------------------------------------------------%
+Implementasi model merupakan implementasi dari data yang telah di analisa kemudian di implementasi ke model yang telah di kembangkan yang bertujuan untuk menguji model yang digunakan.
+
+%-----------------------------------------------------------------------------%
+\section{Analisa Hasil}
+%-----------------------------------------------------------------------------%
+Setelah melakukan implementasi model, maka tahapan yang selanjutnya dilakukan adalah melakukan analisa terhadap hasil simulasi dari pengembangan awal model sistem yang telah dibuat, kemudian dilakukan perbaikan terhadap model awal berdasarkan hasil skenario yang telah diuji coba.
+
+%-----------------------------------------------------------------------------%
+\section{Kesimpulan dan Saran}
+%-----------------------------------------------------------------------------%
+
+Tahap penyusunan kesimpulan dilakukan dengan menelaah secara keseluruhan terhadap apa yang telah dilakukan pada penelitian ini. Kesimpulan dibuat berdasarkan hasil studi literatur, desain metode penelitian, validasi data, analisis hasil simulasi dan penyusunan hasil yang diperoleh dari pengembangan model dan sistem rantai pasok barang berdasarkan produk pada toko chaca komputer. Tahap terakhir dalam penelitian ini juga menganalisis dan membahas temuan keseluruhan dalam penelitian, terkait dengan kesimpulan hasil pengujian model sistem dinamik dan saran untuk peluang penelitian yang akan datang. 
